@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+.quote {
+    font-size: 1.2em;
+    font-style: italic;
+    background-color: #e9ecef;
+    border-radius: 5px;
+}
+
+.author {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #17a2b8;
+}
